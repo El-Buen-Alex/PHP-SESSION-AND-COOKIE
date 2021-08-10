@@ -1,0 +1,53 @@
+  /*Estilos ejercicio 1*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.encabezado{
+    text-align: center;
+    align-items: center;
+}
+
+.mensaje_bienvenido{
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 50px;
+  color:rgb(219, 104, 62);
+  font-family: cursive;
+  font-weight: bold;
+}
+
+.boton{
+    font-family: Bookman Old Style;
+    border:none;
+    display: block;
+    width:14%;
+    margin-top: 7%;
+    background-color: rgb(219, 104, 62);
+    color:whitesmoke;
+    height:40px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.boton:hover{
+  background-color:rgb(36, 81, 139);
+  color:black;
+}
+
+.elige, .opcion{
+  margin-left: 10%;
+  margin-top: 2%;
+  font-family: Bookman Old Style;
+  color:black;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+    
+
+
+
